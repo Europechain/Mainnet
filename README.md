@@ -1,5 +1,8 @@
 # XEC Mainnet (Europechain.io)
 
+Based on EOSIO v1.8.1:  
+https://github.com/EOSIO/eos/releases/tag/v1.8.1
+
 ## ChainID: 
 f778f7d2f124b110e0a71245b310c1d0ac1a0edd21f131c5ecb2e2bc03e8fe2e
 

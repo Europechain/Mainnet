@@ -33,3 +33,30 @@ p2p-peer-address = xec3.eosdublin.io:9876
 p2p-peer-address = xec4.eosdublin.io:9876
 p2p-peer-address = xec5.eosdublin.io:9876
 ```
+
+===
+
+## Account Creation
+
+Accounts can be created through our account creation portal: https://accounts.europechain.io/createacc  
+
+Account creation is free, however you need a coupon code in order to do so.  You'll also need to public keys (owner and active) for your account.  They can be generated using cleos, or an EOS key manager like Scatter.
+
+
+
+## Account Permission.
+
+The following default EOSIO permissions are blocked on Europe Chain:
+
+```
+createacc
+namebids
+regprod
+regproxy
+setcontract
+vote
+REX
+```
+
+Users can apply for permssion by contact the XEC administrative DAC or by visiting  http://permission.europechain.io/login
+

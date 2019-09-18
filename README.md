@@ -8,9 +8,9 @@ f778f7d2f124b110e0a71245b310c1d0ac1a0edd21f131c5ecb2e2bc03e8fe2e
 
 ## API Endpoints:
 ```
-https://api.xec.cryptolions.io
-https://xec.eosdublin.io
-https://europe.eos.barcelona
+https://api.xec.cryptolions.io:443
+https://xec.eosdublin.io:443
+https://europe.eos.barcelona:443
 ```
 
 ## P2P Endpoints:

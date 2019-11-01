@@ -8,6 +8,8 @@ f778f7d2f124b110e0a71245b310c1d0ac1a0edd21f131c5ecb2e2bc03e8fe2e
 
 ## API Endpoints:
 ```
+https://api.europechain.io/
+
 https://api.xec.cryptolions.io:443
 https://xec.eosdublin.io:443
 https://europe.eos.barcelona:443
@@ -32,6 +34,12 @@ p2p-peer-address = xec2.eosdublin.io:9876
 p2p-peer-address = xec3.eosdublin.io:9876
 p2p-peer-address = xec4.eosdublin.io:9876
 p2p-peer-address = xec5.eosdublin.io:9876
+```
+
+## HYPERION HISTORY
+
+```
+https://history.europechain.io/
 ```
 
 ===

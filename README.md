@@ -1,10 +1,19 @@
 # XEC Mainnet (Europechain.io)
 
-Based on EOSIO v1.8.1:  
-https://github.com/EOSIO/eos/releases/tag/v1.8.1
+## Node software
+
+XEC is running on original EOSIO 2.0 software. The following settings are recommended for all producing nodes:
+
+```
+wasm-runtime = eos-vm-jit
+eos-vm-oc-enable = false
+cpu-effort-percent = 40
+last-block-cpu-effort-percent = 20
+```
 
 ## ChainID: 
-f778f7d2f124b110e0a71245b310c1d0ac1a0edd21f131c5ecb2e2bc03e8fe2e
+
+`f778f7d2f124b110e0a71245b310c1d0ac1a0edd21f131c5ecb2e2bc03e8fe2e`
 
 ## API Endpoints:
 ```

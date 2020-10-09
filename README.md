@@ -40,6 +40,7 @@ p2p-peer-address = xec2.eosdublin.io:9876
 p2p-peer-address = xec3.eosdublin.io:9876
 p2p-peer-address = xec4.eosdublin.io:9876
 p2p-peer-address = xec5.eosdublin.io:9876
+p2p-peer-address = bp-europechain.animusystems.com:5454
 ```
 
 ## HYPERION HISTORY

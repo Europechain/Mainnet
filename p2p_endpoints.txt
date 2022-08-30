@@ -1,0 +1,12 @@
+p2p-peer-address = api.xec.cryptolions.io:9876
+p2p-peer-address = api.xec.eosamsterdam.net:9090
+p2p-peer-address = seed2.xec.eosams.xeos.me:9090
+p2p-peer-address = xec.eosdublin.io:9874
+p2p-peer-address = p2p.euc.dutcheos.io:9871
+p2p-peer-address = europe-p2p.eos.barcelona:9879
+p2p-peer-address = hayek.euc.dutcheos.io:9875
+p2p-peer-address = vonmises.euc.dutcheos.io:9874
+p2p-peer-address = bastiat.euc.dutcheos.io:9873
+p2p-peer-address = friedman.euc.dutcheos.io:9872
+p2p-peer-address = bp-europechain.animusystems.com:5454
+p2p-peer-address = bp-europechain.animusystems.com:5455
